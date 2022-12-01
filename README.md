@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom Strong</h1>
 <h3 align="center">A passionate problem-solver</h3>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **training/learning (always)**
 
 - 🌱 I’m currently learning **Angular and Java**
 
