@@ -3,10 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **Angular and Javahqw2sxcbashls
--  environmen**
--  environmen
-- cmdvocalhost**
+- 🌱 I’m currently learning **Angular and Java**
 
 - 👯 I’m looking to collaborate on **Web Apps**
 
